@@ -1,5 +1,5 @@
 {
-    "name": "emmanuelizzy/instagram-graph-api-php-sdk",
+    "name": "jstolpe/instagram-graph-api-php-sdk",
     "description": "Instagram Graph API PHP SDK",
     "keywords": ["instagram", "api", "graph api", "sdk", "php", "instagram graph api"],
     "type": "library",
